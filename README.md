@@ -3,7 +3,23 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Batch](https://img.shields.io/badge/Made%20with-Batch-1f425f.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=56271)
 
-A collection of batch scripts that automate project setup and configuration. Each script creates a standardized directory structure and installs necessary dependencies for specific project types.
+<div align="center">
+	<p>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+	</p>
+</div>
+
+A comprehensive collection of automated project scaffolding scripts designed to streamline development workflows. These batch scripts eliminate setup overhead by instantly generating standardized project structures, complete with essential dependencies and configurations. Perfect for developers looking to jumpstart new projects with industry-standard architectures and best practices baked in.
+
+### Key Features
+- 🚀 Instant project setup with one click
+- 📁 Standardized directory structures
+- ⚙️ Automated dependency installation
+- 🔧 Pre-configured development tools
+- 📦 Ready-to-use project templates
+
 
 ## Quick Start
 
